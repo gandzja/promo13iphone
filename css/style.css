@@ -68,3 +68,105 @@ button {
   width: 1px !important;
   overflow: hidden;
 }
+.header {
+  &__container {
+  }
+
+  &__logo {
+  }
+
+  &__navigation {
+  }
+}
+.container {
+}
+.navigation {
+  &__list {
+  }
+
+  &__item {
+  }
+}
+.main {
+  &__section {
+  }
+}
+.offer {
+  &__container {
+  }
+
+  &__main-title {
+  }
+
+  &__title {
+  }
+
+  &__price {
+  }
+
+  &__btn {
+  }
+}
+.btn {
+}
+.features {
+  &__title {
+  }
+
+  &__list {
+  }
+
+  &__item {
+  }
+}
+.card {
+  &__picture {
+  }
+
+  &__title {
+  }
+
+  &__description {
+  }
+}
+.order {
+  &__title {
+  }
+
+  &__form {
+  }
+}
+.form {
+  &__box {
+  }
+
+  &__title-box {
+  }
+
+  &__label {
+  }
+
+  &__input {
+  }
+
+  &__select {
+  }
+
+  &__submit {
+  }
+}
+.checkbox {
+}
+.footer {
+  &__flex {
+  }
+
+  &__info {
+  }
+
+  &__copyright {
+  }
+
+  &__info-email {
+  }
+}
